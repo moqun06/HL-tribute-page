@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background:whitesmoke;
+    
+
+}
+h1{
+
+    
+    text-align: center;
+}
+h2{
+    text-align: center;
+    border-bottom: 2px solid silver;
+}
+
+.hedy{
+    display: flex;
+    gap: 2rem;
+    padding-top: 2rem;
+}
+    
+.image{
+    width: 100%;
+}
